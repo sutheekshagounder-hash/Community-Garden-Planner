@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "bed": "Bed A",
+        "plant": "Tomato",
+        "category": "Vegetable",
+        "sowing_date": "2026-02-01",
+        "harvest_date": "2026-05-15",
+        "quantity": 8,
+        "notes": "Healthy",
+        "status": "Growing"
+    },
+    {
+        "id": 2,
+        "bed": "Bed A",
+        "plant": "Chilli",
+        "category": "Vegetable",
+        "sowing_date": "2026-02-10",
+        "harvest_date": "2026-06-01",
+        "quantity": 12,
+        "notes": "Growing well",
+        "status": "Growing"
+    },
+    {
+        "id": 3,
+        "bed": "Bed B",
+        "plant": "Spinach",
+        "category": "Vegetable",
+        "sowing_date": "2026-03-01",
+        "harvest_date": "2026-04-01",
+        "quantity": 20,
+        "notes": "Ready to harvest",
+        "status": "Harvested"
+    },
+    {
+        "id": 4,
+        "bed": "Bed B",
+        "plant": "Mint",
+        "category": "Herb",
+        "sowing_date": "2026-03-05",
+        "harvest_date": "2026-04-20",
+        "quantity": 5,
+        "notes": "Fresh leaves",
+        "status": "Growing"
+    },
+    {
+        "id": 5,
+        "bed": "Bed C",
+        "plant": "Marigold",
+        "category": "Flower",
+        "sowing_date": "2026-02-15",
+        "harvest_date": "2026-05-01",
+        "quantity": 10,
+        "notes": "Yellow flowers",
+        "status": "Growing"
+    },
+    {
+        "id": 6,
+        "bed": "Bed C",
+        "plant": "Carrot",
+        "category": "Vegetable",
+        "sowing_date": "2026-01-15",
+        "harvest_date": "2026-04-15",
+        "quantity": 15,
+        "notes": "Good growth",
+        "status": "Harvested"
+    },
+    {
+        "id": 7,
+        "bed": "Bed D",
+        "plant": "Strawberry",
+        "category": "Fruit",
+        "sowing_date": "2026-02-20",
+        "harvest_date": "2026-06-10",
+        "quantity": 6,
+        "notes": "Healthy plants",
+        "status": "Growing"
+    },
+    {
+        "id": 8,
+        "bed": "Bed D",
+        "plant": "Basil",
+        "category": "Herb",
+        "sowing_date": "2026-03-12",
+        "harvest_date": "2026-05-12",
+        "quantity": 7,
+        "notes": "Regular watering",
+        "status": "Growing"
+    },
+    {
+        "id": 9,
+        "bed": "Bed E",
+        "plant": "Sunflower",
+        "category": "Flower",
+        "sowing_date": "2026-03-01",
+        "harvest_date": "2026-06-15",
+        "quantity": 4,
+        "notes": "Needs sunlight",
+        "status": "Planned"
+    },
+    {
+        "id": 10,
+        "bed": "Bed E",
+        "plant": "Cucumber",
+        "category": "Vegetable",
+        "sowing_date": "2026-03-10",
+        "harvest_date": "2026-05-25",
+        "quantity": 9,
+        "notes": "Needs support",
+        "status": "Growing"
+    }
+]
